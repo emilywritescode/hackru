@@ -9,3 +9,4 @@ A repo about HackRU marketing for the organizing team! :)
 - Instagram (@thehackru) https://www.instagram.com/thehackru/
 - Snapchat (thehackru) https://www.snapchat.com/add/thehackru
 - Medium (@theHackRU, publication: the-hackru) https://medium.com/the-hackru
+- Youtube https://www.youtube.com/channel/UC7UFO50kGL86lYfX6Ezio2w
