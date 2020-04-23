@@ -13,7 +13,8 @@ For the flyers, just print out a bunch in color and put up around campus!
 For the student center TVs, email **scsignage@echo.rutgers.edu** and include the graphic and a date range of when the graphic should be up on the TVs (ASAP through one day after the event is what I did). Bump if they don't respond within a week.
 
 # Other Hackathons
-Easy way to reach students from other schools is to reach out to the hackathon organizations
+Easy way to reach students from other schools is to reach out to the hackathon organizations at those schools. If they don't have a hackathon, look for contacts in their CS/Engineering/other tech-related departments.
+
 For Spring 2020, we came up with an [outreach doc](https://docs.google.com/document/d/1_ga16VJU6mGfgy5lk-fr60p_i-I7yzoGHD8tGWECeqo) that includes our main blurb, graphics, and sample copy-paste texts for Twitter, etc.
 Quite a few other hackathons include this in their outreach emails to us, so I think it's good for HackRU to have one too! It's really easy to use.
 
